@@ -1,4 +1,3 @@
-numpy
 nbinteract
 numpy>=1, <2
 IPython>=6, <8
